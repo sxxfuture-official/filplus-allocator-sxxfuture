@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "ID": "f1bcirtx2jmr466t2pn3nmlz7nlrv6eheujbvho5q",
+  "Issue Number": "3",
+  "Client": {
+    "Name": "Beijing kebike Education Consulting",
+    "Region": "China",
+    "Industry": "Education & Training",
+    "Website": "https://www.kobiko.cn/",
+    "Social Media": "Sina Weibo: https://weibo.com/u/5649177657",
+    "Social Media Type": "WeChat",
+    "Role": "Dataset Owner"
+  },
+  "Project": {
+    "Project Id": "2",
+    "Brief history of your project and organization": "Beijing kebike Education Consulting Co., Ltd. is a professional provider of overall solutions for educational institutions. It was initiated and founded by elites from domestic well-known education and training industry, Internet companies and financial industry. It has received high attention and full support from many investment funds, and has formed strategic alliances with many listed companies and well-known education brands. In view of the marketing, teaching and management problems commonly faced by educational institutions, Beijing kebike Education Consulting Co., Ltd. innovatively proposed three solutions. The group has established five service systems for education and training institutions, including marketing service, network service, management service, teaching service and Investment Service​",
+    "Is this project associated with other projects/ecosystem stakeholders?": "No",
+    "Describe the data being stored onto Filecoin": "Relevant courseware, notebooks, documents, audio and video courses on early childhood education, etc.",
+    "Where was the data currently stored in this dataset sourced from": "My Own Storage Infra",
+    "How do you plan to prepare the dataset": "Unify all data to establish mapping relationships and produce corresponding mapping tables.\r\nUse open source tools to package data and distribute it to SP.",
+    "Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.)": "https://drive.google.com/drive/folders/1Z59yRRYA6CM_v7YQisjXgo8pwCPfFvdk?usp=drive_link\r\nhttps://drive.google.com/file/d/17OPWvGBZTcLhB0vo2rseO5me1RkpGFTC/view?usp=drive_link\r\nhttps://drive.google.com/file/d/1gqmtFoppKs9cN2H7uolCzBQSPCQH32l_/view?usp=drive_link\r\nhttps://drive.google.com/file/d/1k4Q4xfYPsyz5flqCR37RgzVI-2Lj5Qof/view?usp=drive_link\r\nhttps://drive.google.com/file/d/1Bb8xSFD4LO3grtQwlKCDZC0yRUuXFblS/view?usp=drive_link\r\nhttps://drive.google.com/file/d/1__Nx0_x4YOHcAKBAzRCuTeuoCYM2Lkfl/view?usp=drive_link",
+    "Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)": "[X] I confirm",
+    "What is the expected retrieval frequency for this data": "Monthly",
+    "For how long do you plan to keep this dataset stored on Filecoin": "More than 3 years",
+    "In which geographies do you plan on making storage deals": "Greater China, Asia other than Greater China, North America, Europe",
+    "How will you be distributing your data to storage providers": "HTTP or FTP server, Shipping hard drives",
+    "Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future": "f02900009 - Singapore\r\nf03000035 - China,Hubei\r\nf03028310 - HongKong\r\nf03028326 - HongKong\r\nf02944782 - US",
+    "Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)": "Yes"
+  },
+  "Datacap": {
+    "Type": "ldn-v3",
+    "Data Type": "Slingshot",
+    "Total Requested Amount": "8PiB",
+    "Single Size Dataset": "800TiB",
+    "Replicas": 10,
+    "Weekly Allocation": "1PiB"
+  },
+  "Lifecycle": {
+    "State": "Granted",
+    "Validated At": "2024-04-15 01:40:09.113335574 UTC",
+    "Validated By": "sxxfuture-official",
+    "Active": true,
+    "Updated At": "2024-04-15 01:42:49.784695631 UTC",
+    "Active Request ID": "a2adef6e-a46a-4a68-a090-a64e6d1c0ea4",
+    "On Chain Address": "f1bcirtx2jmr466t2pn3nmlz7nlrv6eheujbvho5q",
+    "Multisig Address": "false",
+    "edited": null
+  },
+  "Allocation Requests": [
+    {
+      "ID": "a2adef6e-a46a-4a68-a090-a64e6d1c0ea4",
+      "Request Type": "First",
+      "Created At": "2024-04-15 01:40:09.113340941 UTC",
+      "Updated At": "2024-04-15 01:40:09.113341608 UTC",
+      "Active": false,
+      "Allocation Amount": "512TiB",
+      "Signers": [
+        {
+          "Github Username": "sxxfuture-official",
+          "Signing Address": "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy",
+          "Created At": "2024-04-15 01:42:47.496000000 UTC",
+          "Message CID": "bafy2bzacea2wegdh5imtkkbmn4ivmhiaqtsh3ovm7mmvv4vbwvtvr5ke7unfe"
+        }
+      ]
+    }
+  ]
+}
