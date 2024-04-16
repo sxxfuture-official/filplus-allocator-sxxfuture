@@ -36,11 +36,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-04-16 06:10:41.019937305 UTC",
     "Validated By": "sxxfuture-official",
     "Active": true,
-    "Updated At": "2024-04-16 06:10:41.019941841 UTC",
+    "Updated At": "2024-04-16 06:13:11.803218759 UTC",
     "Active Request ID": "271de5b5-7ae8-479f-9e12-8309ffcc3e95",
     "On Chain Address": "f1ubcvb6eoyzfoan4x32xbmavy6p4khah3i5mxfba",
     "Multisig Address": "false",
@@ -52,9 +52,16 @@
       "Request Type": "First",
       "Created At": "2024-04-16 06:10:41.019943068 UTC",
       "Updated At": "2024-04-16 06:10:41.019943580 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "500TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "sxxfuture-official",
+          "Signing Address": "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy",
+          "Created At": "2024-04-16 06:13:09.951000000 UTC",
+          "Message CID": "bafy2bzacecoiaqqxe2kpdjc7olxbxjyzhah2nwjrlqpltxm45cim3uxbrkcym"
+        }
+      ]
     }
   ]
 }
