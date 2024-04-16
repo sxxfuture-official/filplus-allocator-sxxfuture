@@ -36,15 +36,25 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Submitted",
-    "Validated At": "",
-    "Validated By": "",
+    "State": "ReadyToSign",
+    "Validated At": "2024-04-16 06:10:41.019937305 UTC",
+    "Validated By": "sxxfuture-official",
     "Active": true,
-    "Updated At": "2024-04-15 02:49:15.320134135 UTC",
-    "Active Request ID": "",
+    "Updated At": "2024-04-16 06:10:41.019941841 UTC",
+    "Active Request ID": "271de5b5-7ae8-479f-9e12-8309ffcc3e95",
     "On Chain Address": "f1ubcvb6eoyzfoan4x32xbmavy6p4khah3i5mxfba",
     "Multisig Address": "false",
     "edited": false
   },
-  "Allocation Requests": []
+  "Allocation Requests": [
+    {
+      "ID": "271de5b5-7ae8-479f-9e12-8309ffcc3e95",
+      "Request Type": "First",
+      "Created At": "2024-04-16 06:10:41.019943068 UTC",
+      "Updated At": "2024-04-16 06:10:41.019943580 UTC",
+      "Active": true,
+      "Allocation Amount": "500TiB",
+      "Signers": []
+    }
+  ]
 }
