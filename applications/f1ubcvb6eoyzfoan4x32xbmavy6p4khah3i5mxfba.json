@@ -12,7 +12,6 @@
     "Role": "Data Preparer"
   },
   "Project": {
-    "Project Id": "5",
     "Brief history of your project and organization": "The HRRR is a NOAA real-time 3-km resolution, hourly updated, cloud-resolving, convection-allowing atmospheric model, initialized by 3km grids with 3km radar assimilation. Radar data is assimilated in the HRRR every 15 min over a 1-h period adding further detail to that provided by the hourly data assimilation from the 13km radar-enhanced.\r\nHRRR implementations at NCEP\r\nHRRRv1 - 30 Sept 2014\r\nHRRRv2 - 23 Aug 2016\r\nHRRRv3 - 12 July 2018\r\nHRRRv4 - 2 Dec 2020",
     "Is this project associated with other projects/ecosystem stakeholders?": "No",
     "Describe the data being stored onto Filecoin": "The High-Resolution Rapid Refresh (HRRR) is sourced by Global System Laboratory from National Oceanic && Atmospheric Administration. It is a NOAA real-time 3-km resolution, hourly updated, cloud-resolving, convection-allowing atmospheric model, initialized by 3km grids with 3km radar assimilation. Radar data is assimilated in the HRRR every 15 min over a 1-h period adding further detail to that provided by the hourly data assimilation from the 13km radar-enhanced Rapid Refresh.\r\nHRRR dataset stored on AWS is the archive since 2014 with a total size of 2PiB and 38526457 Object.",
@@ -36,12 +35,12 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "ReadyToSign",
     "Validated At": "2024-04-16 06:10:41.019937305 UTC",
     "Validated By": "sxxfuture-official",
     "Active": true,
-    "Updated At": "2024-04-16 06:13:11.803218759 UTC",
-    "Active Request ID": "271de5b5-7ae8-479f-9e12-8309ffcc3e95",
+    "Updated At": "2024-05-21 19:00:04.525618572 UTC",
+    "Active Request ID": "e0931ef6-8278-4bad-8b6f-1cddfcd3e0f2",
     "On Chain Address": "f1ubcvb6eoyzfoan4x32xbmavy6p4khah3i5mxfba",
     "Multisig Address": "false",
     "edited": false
@@ -62,6 +61,15 @@
           "Message CID": "bafy2bzacecoiaqqxe2kpdjc7olxbxjyzhah2nwjrlqpltxm45cim3uxbrkcym"
         }
       ]
+    },
+    {
+      "ID": "e0931ef6-8278-4bad-8b6f-1cddfcd3e0f2",
+      "Request Type": "Refill",
+      "Created At": "2024-05-21 19:00:04.525625405 UTC",
+      "Updated At": "2024-05-21 19:00:04.525626950 UTC",
+      "Active": true,
+      "Allocation Amount": "512TiB",
+      "Signers": []
     }
   ]
 }
