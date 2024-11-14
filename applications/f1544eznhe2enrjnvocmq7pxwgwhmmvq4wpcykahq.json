@@ -36,11 +36,11 @@
   },
   "Lifecycle": {
     "State": "Granted",
-    "Validated At": "2024-11-12 02:38:13.703482249 UTC",
+    "Validated At": "2024-11-14 05:06:07.965906730 UTC",
     "Validated By": "sxxfuture-official",
     "Active": true,
-    "Updated At": "2024-11-12 02:39:35.566123821 UTC",
-    "Active Request ID": "03fc0b0f-e553-4a94-900e-fd02d2a35249",
+    "Updated At": "2024-11-14 05:07:40.631254261 UTC",
+    "Active Request ID": "aaef5cb2-3b19-4b2c-9904-967f2a50a6ea",
     "On Chain Address": "f1544eznhe2enrjnvocmq7pxwgwhmmvq4wpcykahq",
     "Multisig Address": "false",
     "edited": false
@@ -59,6 +59,22 @@
           "Signing Address": "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy",
           "Created At": "2024-11-12 02:39:32.159000000 UTC",
           "Message CID": "bafy2bzaceaej6a6ipwhuduwjn7dn37vqbgeg4zvb4v5nytegwzmghrhg7lqo2"
+        }
+      ]
+    },
+    {
+      "ID": "aaef5cb2-3b19-4b2c-9904-967f2a50a6ea",
+      "Request Type": "Refill",
+      "Created At": "2024-11-14 05:06:07.965915140 UTC",
+      "Updated At": "2024-11-14 05:06:07.965916003 UTC",
+      "Active": false,
+      "Allocation Amount": "512TiB",
+      "Signers": [
+        {
+          "Github Username": "sxxfuture-official",
+          "Signing Address": "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy",
+          "Created At": "2024-11-14 05:07:38.623000000 UTC",
+          "Message CID": "bafy2bzaceatncskxiiba7h7zw3xf4chpls22brs5ys72dme63h3b7cbks5qfo"
         }
       ]
     }
