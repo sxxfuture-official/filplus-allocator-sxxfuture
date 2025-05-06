@@ -35,12 +35,12 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "Granted",
+    "State": "TotalDatacapReached",
     "Validated At": "2024-12-18 07:48:45.594691734 UTC",
     "Validated By": "sxxfuture-official",
     "Active": false,
-    "Updated At": "2024-12-28 21:00:28.018535149 UTC",
-    "Active Request ID": "",
+    "Updated At": "2025-05-06 13:00:41.673971389 UTC",
+    "Active Request ID": null,
     "On Chain Address": "f1xzamkugue73fox7nztsmgymn4xwchmdtioocdqy",
     "Multisig Address": "false",
     "edited": false
